@@ -1,3 +1,6 @@
+import numpy as np
+from neuralnet_mnist import get_data, init_network, predict
+
 x, y = get_data()
 network = init_network()
 

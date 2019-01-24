@@ -1,4 +1,5 @@
 import numpy as np
+from neuralnet_mnist import sigmoid
 
 A = np.array([1, 2, 3, 4])
 print(A)
